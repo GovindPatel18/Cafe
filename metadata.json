@@ -1,0 +1,6 @@
+{
+  "name": "Solas Specialty Coffee & Bistro",
+  "description": "A modern third-wave specialty coffee shop and bistro offering carefully crafted single-origin roasts, seasonal matcha, artisanal viennoiserie, and all-day bistro fare.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
